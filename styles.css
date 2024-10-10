@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f1e0;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+  }
+
+.container{
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+}
+
+img{
+    border-radius: 15px;
+    width: 1000px;
+    
+}
+.content{
+    text-align:center;
+    height: 160px;
+    width: -600px;
+    background-color: rgb(38, 112, 177);
+    padding: 15px;
+    color: white;
+    border-radius: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main,.powers, .powerslevels {
+ margin-bottom: 20px;}
+
+
+table, th, td {
+    border:1px solid;
+    border-collapse: collapse;
+    }
+
+a{
+    text-align: center;}
+
+   
+   th{
+    background-color: rgb(38, 112, 177);
+   }
